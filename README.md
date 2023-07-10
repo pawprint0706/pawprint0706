@@ -7,6 +7,9 @@
 #### Available langs (maybe?)
 1. C/C++ (+ MFC)
 2. C# (+ WinForm)
-3. HTML/CSS/JavaScript
-4. Other Web base stacks
-> - React (New!)
+3. Front-End
+> - HTML/CSS/JavaScript
+> - React
+5. Back-End
+> - Node.JS
+> - PHP
