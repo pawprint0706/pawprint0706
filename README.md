@@ -10,6 +10,6 @@
 3. Front-End
 > - HTML/CSS/JavaScript
 > - React
-5. Back-End
+4. Back-End
 > - Node.JS
 > - PHP
